@@ -326,7 +326,7 @@
   },
   "UseMemoHook": {
     "prefix": "rum",
-    "body": ["const memorizedValue = useMemo(() => {", "\t$0", "}, [$1])"],
+    "body": ["const ${1:memorizedValue} = useMemo(() => {", "\t$0", "}, [$2])"],
     "description": "use memo hooks"
   },
   "UseRefHook": {
