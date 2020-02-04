@@ -321,7 +321,7 @@
   },
   "UseCallbackHook": {
     "prefix": "rucb",
-    "body": ["const memorizedCallback = useCallback(() => {", "\t$0", "}, [$1])"],
+    "body": ["const ${1:memorizedCallback} = useCallback(() => {", "\t$0", "}, [$2])"],
     "description": "use callback hooks"
   },
   "UseMemoHook": {
