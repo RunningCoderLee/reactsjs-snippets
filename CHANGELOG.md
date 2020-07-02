@@ -1,6 +1,10 @@
-# Changelog
+Changelog
+### [0.1.3](https://github.com/RunningCoderLee/reactsjs-snippets/compare/v0.1.2...v0.1.3) (2020-07-02)
 
-All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### 🐛 Bug Fixes
+
+* tweak useCallBackHook snippet ([62f8dea](https://github.com/RunningCoderLee/reactsjs-snippets/commit/62f8dea809e893d66fd6ecdc425e5f9fe56e0d28))
 
 ### [0.1.2](https://github.com/RunningCoderLee/reactsjs-snippets/compare/v0.1.1...v0.1.2) (2020-02-04)
 
